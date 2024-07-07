@@ -1,7 +1,6 @@
 # Codewars 笔记
-
----
  
-## 习题
+## :bookmark: Kata 
 
-- 8kyu
+- [8kyu](https://github.com/natsumekatashi/codewars-note/blob/main/problems/link/8kyu.md)
+  

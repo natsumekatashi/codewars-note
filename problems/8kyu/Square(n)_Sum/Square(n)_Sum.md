@@ -1,7 +1,5 @@
 # 8kyu Square(n) Sum
 
----
-
 ## Instructions
 Complete the square sum function so that it squares each number passed into in and then sums the results together.
 
